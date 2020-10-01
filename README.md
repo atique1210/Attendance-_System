@@ -1,4 +1,4 @@
-# Attendance-_System
+# Attendance_System
 
 • Developed an android app and website for marking of attendance with the help of Mobile Hot-spot.
 
